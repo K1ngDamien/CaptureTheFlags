@@ -37,9 +37,9 @@ exploit
 
 ![searchsploit.jpg](./images/searchsploit.jpg)
 
-![mfsconsole.jpg](./images/mfsconsole.jpg)
+![msfconsole.jpg](./images/mfsconsole.jpg)
 
-![mfsconsole2.jpg](./images/mfsconsole2.jpg)
+![msfconsole2.jpg](./images/mfsconsole2.jpg)
 
 ![mfsexploit.jpg](./images/mfsexploit.jpg)
 
