@@ -2,7 +2,7 @@
 
 ## About the Capture the Flag 
 Name: Linux Privilege Escalation\
-Difficulty: Easy\
+Difficulty: Medium\
 Author: [Tib3rius](https://tryhackme.com/p/Tib3rius)\
 Link: [LINK TO CTF](https://tryhackme.com/room/linuxprivesc)
 
